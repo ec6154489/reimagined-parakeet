@@ -1,0 +1,5 @@
+{
+  "name": "Daily Journal",
+  "description": "A secure, minimal daily journal app with authentication and full CRUD capabilities.",
+  "requestFramePermissions": []
+}
